@@ -1,0 +1,6 @@
+C:\Users\Михаил\Desktop\ConsoleApp_Homework9\ConsoleApp_Homework9.2\obj\Debug\ConsoleApp_Homework9.2.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\ConsoleApp_Homework9\ConsoleApp_Homework9.2\bin\Debug\ConsoleApp_Homework9.2.exe.config
+C:\Users\Михаил\Desktop\ConsoleApp_Homework9\ConsoleApp_Homework9.2\bin\Debug\ConsoleApp_Homework9.2.exe
+C:\Users\Михаил\Desktop\ConsoleApp_Homework9\ConsoleApp_Homework9.2\bin\Debug\ConsoleApp_Homework9.2.pdb
+C:\Users\Михаил\Desktop\ConsoleApp_Homework9\ConsoleApp_Homework9.2\obj\Debug\ConsoleApp_Homework9.2.exe
+C:\Users\Михаил\Desktop\ConsoleApp_Homework9\ConsoleApp_Homework9.2\obj\Debug\ConsoleApp_Homework9.2.pdb
